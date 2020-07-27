@@ -6,6 +6,7 @@
 
     display : flex;
     justify-content: center;
+    /* or space-around 인듯? */
     align-items: center;
 }
 
